@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html
+{
+    background-color: lightgray;
+}
+
+body 
+{
+    background-color: gray;
+    margin: auto;
+    max-width: 1200px;
+    text-align: left;
+    text-indent: 50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+#image
+{
+    text-align: center; 
+}
+
+h1
+{
+    text-decoration: underline;
+    text-align: center;
+}
+
+li
+{
+    font-weight: bold;
+}
+
+nav
+{
+    align-items: center;
+    display: flex;
+    background-color: lightgray;
+    font-weight: bold;
+    border-style: double;
+    height: 100%;
+}
+
+.page-link:hover {
+    background-color: lightgray;
+}
+
+.nav-button, .nav-cur-button, .nav-lastname, .nav-lastname-cur {
+    height: 60px;
+    cursor: pointer;
+    width: 120px;
+    border-width: 2px;
+}
+
+.nav-button:hover {
+    background-color: darkgray;
+}
+
+.nav-cur-button {
+    background-color: black;
+    color: white;
+}
+
+.nav-lastname, .nav-lastname-cur {
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    text-transform: uppercase;
+}
+
+.nav-lastname {
+    background-color: darkgray;
+}
+
+.nav-lastname-cur {
+    background-color: black;
+    color: white;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    top: 100%;
+}
+
+.dropdown-content a {
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    width: 120px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
