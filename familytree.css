@@ -35,7 +35,7 @@ h1
 }
 
 h1:hover {
-    background-color: white;
+    background-color: rgb(92, 0, 0);
     -webkit-transition: background-color 1000ms linear;
     -ms-transition: background-color 1000ms linear;
     transition: background-color 1000ms linear;
@@ -50,7 +50,7 @@ nav
 {
     align-items: center;
     display: flex;
-    background-color: lightgray;
+    background-color: lightskyblue;
     font-weight: bold;
     border-style: double;
     height: 100px;
@@ -65,6 +65,8 @@ nav
     cursor: pointer;
     width: 120px;
     border-width: 2px;
+    font-weight: bold;
+    color: #115700;
 }
 
 .nav-button:hover {
@@ -87,7 +89,7 @@ nav
 }
 
 .nav-button {
-    background-color: lightblue;
+    background-color: rgb(0, 191, 255);
 }
 
 .nav-lastname {
