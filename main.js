@@ -1,3 +1,7 @@
+function openBiermann() {
+    window.location.href = "biermann.html";
+}
+
 function openBio() {
     window.location.href = "aboutme.html";
 }
@@ -24,6 +28,18 @@ function openMeyerhoffAdolph() {
 
 function openMeyerhoffTheodore() {
     window.location.href = "meyerhoff_theodore.html";
+}
+
+function openProjects() {
+    window.location.href = "other.html";
+}
+
+function openRoyalty() {
+    window.location.href = "royalty.html";
+}
+
+function openSmallFamilies() {
+    window.location.href = "smallerfamilies.html";
 }
 
 function openStork() {
