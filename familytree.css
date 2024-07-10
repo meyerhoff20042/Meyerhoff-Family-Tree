@@ -18,9 +18,15 @@ body
     padding-bottom: 10px;
 }
 
-#image
+.image
 {
     text-align: center; 
+    padding-bottom: 10px;
+}
+
+img
+{
+    width:1000px;
 }
 
 h1
