@@ -1,13 +1,17 @@
-function openHome() {
-    window.location.href = "index.html";
-}
-
 function openBio() {
     window.location.href = "aboutme.html";
 }
 
 function openEggers() {
     window.location.href = "eggers.html";
+}
+
+function openHome() {
+    window.location.href = "index.html";
+}
+
+function openCoalson() {
+    window.location.href = "coalson.html";
 }
 
 function openMeyerhoff() {
@@ -20,10 +24,6 @@ function openMeyerhoffAdolph() {
 
 function openMeyerhoffTheodore() {
     window.location.href = "meyerhoff_theodore.html";
-}
-
-function openCoalson() {
-    window.location.href = "coalson.html";
 }
 
 function openStork() {
