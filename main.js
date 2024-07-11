@@ -26,6 +26,22 @@ function openMeyerhoffAdolph() {
     window.location.href = "meyerhoff_adolph.html";
 }
 
+function openMeyerhoffAnna() {
+    window.location.href = "meyerhoff_anna.html";
+}
+
+function openMeyerhoffClara() {
+    window.location.href = "meyerhoff_clara.html";
+}
+
+function openMeyerhoffClemens() {
+    window.location.href = "meyerhoff_clemens.html";
+}
+
+function openMeyerhoffEmma() {
+    window.location.href = "meyerhoff_emma.html";
+}
+
 function openMeyerhoffTheodore() {
     window.location.href = "meyerhoff_theodore.html";
 }
