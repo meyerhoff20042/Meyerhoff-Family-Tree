@@ -10,12 +10,16 @@ function openEggers() {
     window.location.href = "eggers.html";
 }
 
+function openCoalson() {
+    window.location.href = "coalson.html";
+}
+
 function openHome() {
     window.location.href = "index.html";
 }
 
-function openCoalson() {
-    window.location.href = "coalson.html";
+function openLindenberg() {
+    window.location.href = "lindenberg.html";
 }
 
 function openMeyerhoff() {
