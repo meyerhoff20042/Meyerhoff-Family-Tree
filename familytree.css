@@ -18,6 +18,8 @@ h1:hover {
     transition: background-color 1000ms linear;
 }
 
+/*#endregion Header */
+
 /*#region Navigation Bar */
 
 /*#region Dropdown */
@@ -106,7 +108,7 @@ nav
 
 /*#endregion Navigation Bar */
 
-/*#endregion Header */
+
 
 body 
 {
