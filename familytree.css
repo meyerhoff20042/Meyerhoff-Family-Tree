@@ -136,11 +136,6 @@ html
     padding-top: 10px;
 }
 
-li
-{
-    font-weight: bold;
-}
-
 .page-link:hover {
     background-color: lightgray;
 }
