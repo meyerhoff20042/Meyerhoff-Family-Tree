@@ -22,6 +22,10 @@ function openLindenberg() {
     window.location.href = "lindenberg.html";
 }
 
+function openList() {
+    window.location.href = "list.html";
+}
+
 function openMeyerhoff() {
     window.location.href = "meyerhoff.html";
 }
