@@ -108,8 +108,6 @@ nav
 
 /*#endregion Navigation Bar */
 
-
-
 body 
 {
     background-color: gold;
@@ -139,4 +137,27 @@ html
 
 .page-link:hover {
     background-color: lightgray;
+}
+
+table {
+    border-style: solid;
+    max-width: 1200px;
+    width: fit-content;
+    margin: auto;
+}
+
+th, td {
+    border-style: outset;
+    text-align: center;
+    width: 1200px;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+td {
+    color: maroon;
+    font-weight: bold;
 }
