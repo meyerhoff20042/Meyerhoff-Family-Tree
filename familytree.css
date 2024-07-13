@@ -148,13 +148,13 @@ table {
 
 th, td {
     border-style: outset;
-    text-align: center;
     width: 1200px;
 }
 
 th {
     background-color: blue;
     color: white;
+    text-align: center;
 }
 
 td {
