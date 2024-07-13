@@ -38,6 +38,10 @@ function openMeyerhoffAnna() {
     window.location.href = "meyerhoff_anna.html";
 }
 
+function openMeyerhoffAncestry() {
+    window.location.href = "meyerhoff_ancestry.html";
+}
+
 function openMeyerhoffClara() {
     window.location.href = "meyerhoff_clara.html";
 }
