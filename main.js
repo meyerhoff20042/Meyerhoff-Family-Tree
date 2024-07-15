@@ -6,12 +6,16 @@ function openBio() {
     window.location.href = "aboutme.html";
 }
 
-function openEggers() {
-    window.location.href = "eggers.html";
+function openBritain() {
+    window.location.href = "royalty_britain.html";
 }
 
 function openCoalson() {
     window.location.href = "coalson.html";
+}
+
+function openEggers() {
+    window.location.href = "eggers.html";
 }
 
 function openHome() {
