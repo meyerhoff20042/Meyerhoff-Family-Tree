@@ -1,5 +1,5 @@
 function openBiermann() {
-    window.location.href = "biermann.html";
+    window.location.href = "../biermann.html";
 }
 
 function openBio() {
@@ -7,7 +7,7 @@ function openBio() {
 }
 
 function openBritain() {
-    window.location.href = "royalty_britain.html";
+    window.location.href = "royalty\\royalty_britain.html";
 }
 
 function openCoalson() {
@@ -67,7 +67,7 @@ function openProjects() {
 }
 
 function openRoyalty() {
-    window.location.href = "royalty.html";
+    window.location.href = "../royalty.html";
 }
 
 function openSmallFamilies() {
