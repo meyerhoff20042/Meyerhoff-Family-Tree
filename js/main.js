@@ -69,7 +69,7 @@ function openBio() {
 }
 
 function openHome() {
-    window.location.href = "/index.html";
+    window.location.href = "index.html";
 }
 
 function openList() {
