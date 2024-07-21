@@ -7,7 +7,7 @@ function openBio() {
 }
 
 function openBritain() {
-    window.location.href = "/royalty/royalty_britain.html";
+    window.location.href = "/html/royalty/royalty_britain.html";
 }
 
 function openCoalson() {
