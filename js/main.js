@@ -1,7 +1,7 @@
 //#region Last Names
 
 function openBiermann() {
-    window.location.href = "Meyerhoff-Family-Tree/html/families/biermann/biermann.html";
+    window.location.href = "html/families/biermann/biermann.html";
 }
 
 function openCoalson() {
