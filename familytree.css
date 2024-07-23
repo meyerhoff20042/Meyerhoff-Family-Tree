@@ -75,9 +75,9 @@ nav
 
 .nav-button:hover {
     background-color: rgb(90, 236, 255);
-    -webkit-transition: background-color 1000ms linear;
-    -ms-transition: background-color 1000ms linear;
-    transition: background-color 1000ms linear;
+    -webkit-transition: background-color 100ms linear;
+    -ms-transition: background-color 100ms linear;
+    transition: background-color 100ms linear;
 }
 
 .nav-cur-button {
@@ -90,6 +90,14 @@ nav
     font-weight: bold;
     float: left;
     text-transform: uppercase;
+}
+
+.nav-lastname:hover {
+    background-color: darkblue;
+    -webkit-transition: background-color 100ms linear;
+    -ms-transition: background-color 100ms linear;
+    transition: background-color 100ms linear;
+
 }
 
 .nav-button {
