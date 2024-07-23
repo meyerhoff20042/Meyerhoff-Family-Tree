@@ -11,13 +11,6 @@ h1
     font-style: italic;
 }
 
-h1:hover {
-    background-color: rgb(92, 0, 0);
-    -webkit-transition: background-color 1000ms linear;
-    -ms-transition: background-color 1000ms linear;
-    transition: background-color 1000ms linear;
-}
-
 /*#endregion Header */
 
 /*#region Navigation Bar */
