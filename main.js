@@ -92,4 +92,8 @@ function openRoyaltyBritain() {
     window.location.href = "royalty_britain.html";
 }
 
+function openRoyaltyFrance() {
+    window.location.href = "royalty_france.html";
+}
+
 //#endregion
