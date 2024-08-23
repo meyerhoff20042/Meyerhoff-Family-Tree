@@ -177,8 +177,12 @@ html
     height: 100%;
 }
 
+td, th {
+    border: 2px solid white;
+}
+
 table {
-    border-style: solid;
+    border-color: maroon;
     max-width: 1200px;
     width: fit-content;
     margin: auto;
