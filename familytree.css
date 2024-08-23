@@ -55,9 +55,7 @@ h1
 }
 
 .row:after {
-    content: "";
-    display: table;
-    clear: both;
+    overflow: hidden;
 }
 
 .page-navigation {
@@ -198,6 +196,7 @@ th {
 }
 
 td {
-    color: maroon;
     font-weight: bold;
+    border-color: white;
+    color: maroon;
 }
