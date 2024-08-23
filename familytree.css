@@ -182,7 +182,6 @@ td, th {
 }
 
 table {
-    border-color: maroon;
     max-width: 1200px;
     width: fit-content;
     margin: auto;
