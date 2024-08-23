@@ -15,7 +15,7 @@ h1
 
 /*#region Navigation Bar */
 
-/*#region Dropdown */
+/*#region Dropdown (currently unused)*/
 
 .dropdown {
     position: relative;
@@ -46,6 +46,41 @@ h1
 }
 
 /*#endregion Dropdown */
+
+/*#region Page Navigation */
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.page-navigation {
+    align-items: center;
+    background-color: lightblue;
+    border-style: double;
+}
+
+.page-nav-link {
+    background-color: skyblue;
+    border-style: solid;
+    height: 25px;
+    text-align: center;
+    padding-top: 5px;
+    padding-right: 45px;
+}
+
+.page-nav-link > a {
+    color: black;
+    font-weight: bold;
+}
+
+/*#endregion Page Navigation */
 
 nav
 {
@@ -138,6 +173,10 @@ html
 
 .page-link:hover {
     background-color: lightgray;
+}
+
+#sources {
+    height: 100%;
 }
 
 table {
